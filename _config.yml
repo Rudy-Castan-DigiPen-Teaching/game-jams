@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+logo: /logo/digipen_wide_logo.svg
+title: DigiPen Korea Game Jams
+description: DigiPen Korea Game Jams
+show_downloads: false
