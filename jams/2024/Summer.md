@@ -18,11 +18,11 @@
 
 ~ Art, Programming, Sound Design, etc ~
 
-    SeungGeon Kim, DuHwan Kim
+SeungGeon Kim, DuHwan Kim
 
 ~ The Story ~
 
-    It's winter in the year 2077, and you decided to make a giant snowman so that you can get popular and somehow win the presidential election of the United States.
+It's winter in the year 2077, and you decided to make a giant snowman so that you can get popular and somehow win the presidential election of the United States.
 
 But you figured out that normal snowman won't just do, and you needed something different.
 
@@ -34,9 +34,9 @@ Following your parent's advice, you decided to roll a snowball with animals in i
  
 ~ Controls ~
 
-    WASD to move
-    O to enter snowman building mode
-    SPACE to drop snowball during snowman building mode
+WASD to move
+O to enter snowman building mode
+SPACE to drop snowball during snowman building mode
 
 
 
