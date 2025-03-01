@@ -1,4 +1,4 @@
-# DigiPen Korea Game Jam Summer 2024
+# DigiPen Korea Game Jam Feb 2025
 
 ## Theme
 
