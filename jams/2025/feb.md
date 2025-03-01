@@ -108,24 +108,6 @@ You can also use the built in editor to paint out your own levels!
 Left/Right arrows - to move left & right  
 Up arrows - to jump!  
 
-  keyReleased() {
-    if (key === " " || key === "0") {
-      this.tileMode = EMPTY;
-    } else if (key === "1") {
-      this.tileMode = GROUND;
-    } else if (key === "2") {
-      this.tileMode = DECOR;
-    } else if (key === "3") {
-      this.tileMode = SPAWN;
-    } else if (key === "4") {
-      this.tileMode = TRAP;
-    } else if (key === "5") {
-      this.tileMode = ITEM;
-    } else if (key === "6") {
-      this.tileMode = DOOR;
-    }
-  }
-
 **Create Mode**  
 Mouse press to paint the current tile  
 Keyboard **p** - **Toggle between playing and editing the level**  
