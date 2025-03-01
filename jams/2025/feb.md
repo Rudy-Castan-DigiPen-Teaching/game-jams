@@ -104,8 +104,52 @@ You can also use the built in editor to paint out your own levels!
 
 #### How to interact with the Game
 
-Left/Right arrows - to move left & right
-Up arrows - to jump!
+**Game Mode**  
+Left/Right arrows - to move left & right  
+Up arrows - to jump!  
+
+  keyReleased() {
+    if (key === " " || key === "0") {
+      this.tileMode = EMPTY;
+    } else if (key === "1") {
+      this.tileMode = GROUND;
+    } else if (key === "2") {
+      this.tileMode = DECOR;
+    } else if (key === "3") {
+      this.tileMode = SPAWN;
+    } else if (key === "4") {
+      this.tileMode = TRAP;
+    } else if (key === "5") {
+      this.tileMode = ITEM;
+    } else if (key === "6") {
+      this.tileMode = DOOR;
+    }
+  }
+
+**Create Mode**  
+Mouse press to paint the current tile  
+Keyboard **p** - **Toggle between playing and editing the level**  
+Keyboard **1** - Paint **Ground** tiles  
+Keyboard **2** - Paint **Decoration** tiles  
+Keyboard **3** - Paint **Spawn Points** tiles (the game will randomly pick one to spawn from)  
+Keyboard **4** - Paint **Trap** tiles (Lava Ground!)  
+Keyboard **5** - Paint **Item** tiles (the game will randomly pick one to spawn from)  
+Keyboard **6** - Paint **Door** tiles (where to go to beat the level if the item has been found)  
+Keyboard **0** - **Erase** tiles  
+
+On the bottom left is a dropdown to pick which level to edit.
+
+On the bottom right is a dropdown to pick which size of level to have when the `New Level` button is pressed.
+
+Use the `Save Level` to save your work.
+
+Be careful of `Delete Current Level`
+
+`Main Menu` will you take you back to the games main menu
+
+`Download Level` actually downloads all the levels as a JSON string.
+
+
 
 #### Describe how the game reflects the theme
 
