@@ -168,3 +168,41 @@ Ability(teleport) : Spacebar.
 ![](aug/ShinHawon/screenshot.png)
 
 [Download Game](aug/ShinHawon/sketch_250825a.zip)
+
+### Spirit Wanderers
+
+![](aug/spirit_wanderer/SpiritWanderer.gif)
+
+#### Credit
+All the copyrights are written inside the `Project/SpiritWanderer/Assets`. \
+Sound and Image have credits.
+
+#### Brief
+##### Names of team members
+Duho Choi \
+Minsu Kim
+
+##### Brief Intro to Game
+Player becomes the wanderer, visiting spirits' forest.
+
+Player can do normal attacks, but with spirits, damage is too low. \
+Player can meet spirits, that gives elemental powers. \
+Then, player can use special skill of each elements, but only once per element. \
+With spirits, player will protect spirits' grovef from invaders! \
+
+Player can win when timer is 0. \
+Player lose when HP reaches 0.
+
+##### How to interact with the Game
+- Move : WASD 
+- Attack : Arrow key (Attack appears when player release this key.)
+- Dash : Left Shift Key (cooldown 2s)
+
+- End game : ESC
+- Reload game : P
+
+##### Describe how the game reflects the theme
+Player can only use special attack once. \
+If player wants to use another special attack, player need to collide with spirit.
+
+[Download Game](aug/spirit_wanderer/SpiritWanderer-Release.zip)
