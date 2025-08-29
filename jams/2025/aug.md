@@ -123,7 +123,9 @@ Describe how the game reflects the theme
 
 ### One Way
 
-![](aug/3_stacks/20250829-0556-50.4195271.mp4)
+<video width="1402" height="1374" controls>
+  <source src="aug/3_stacks/20250829-0556-50.4195271.mp4" type="video/mp4">
+</video>
 
 Objective: Reach the door by solving puzzles
 
