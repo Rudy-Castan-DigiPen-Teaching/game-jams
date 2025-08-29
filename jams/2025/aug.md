@@ -69,3 +69,30 @@ Be careful of `Delete Current Level`
 You can only go left with **One Time Use** power ups!
 
 [Play it Online here!](aug/square_game_no_way_back/game/index.html)
+
+
+### Piheyot's Dragon Strike
+
+![](aug/Piheyot/screenshot_1.png)
+
+![](aug/Piheyot/screenshot_2.png)
+
+**Piheyot - Seungmin Hong**
+
+You as a knight have to take down all the dragons of the infinite grid and move far as you can.
+
+Game Start : Enter  
+Game Retry : R  
+
+Ending Turn, Using Item : Mouse Left-Click  
+Player Movement : WASD  
+
+You can use items by mouse left-click and another mouse click to your designated tile.
+
+WaterBucket : Makes the tile 'soaked', where dragon can't attack for 1 turn and can take away fire.
+
+Boots : Can jump 2~3 tiles, but only in directions that you can face
+
+Teleport : Can teleport to any tile you choose.
+
+The tiles are only one-time use, and becomes purple, which will magically disappear when a turn gets skipped. You have to make sure you don't get caught by the tiles you've went through, while taking down all dragons.
