@@ -96,3 +96,66 @@ Boots : Can jump 2~3 tiles, but only in directions that you can face
 Teleport : Can teleport to any tile you choose.
 
 The tiles are only one-time use, and becomes purple, which will magically disappear when a turn gets skipped. You have to make sure you don't get caught by the tiles you've went through, while taking down all dragons.
+
+[Download Game](aug/Piheyot/Dragon%20Striker.zip)
+
+### Don't Stop the Party
+
+![](aug/solo_leveling/solo-leveling.gif)
+
+Names of team members
+
+Solo Leveling  
+-Seungju Song
+
+Brief Intro to Game  
+-Wander around the party, and use popper to people to celebrate.
+
+How to interact with the Game  
+-Change direction with A, D button  
+-Use popper with Enter  
+-Slow down the speed with Spacebar  
+
+Describe how the game reflects the theme  
+-The popper is only one time use, if you celebrate people with popper they give you one more.
+
+[Download Game](aug/solo_leveling/Don't%20stop%20the%20party.zip)
+
+### One Way
+
+![](aug/3_stacks/20250829-0556-50.4195271.mp4)
+
+Objective: Reach the door by solving puzzles
+
+One way can't go back  
+theme : one time use
+
+Members  
+Munjun Kim  , Hongjip Kim , Yohan Lim
+
+
+about theme and this game
+
+when choose the theme with 'one time use', we think 한붓그리기 is best representation of this theme  
+so we make bridge and item can be used one time  
+you should apprehend the level, use item, and find the goal!
+
+
+about game
+
+you are on the way through the fragile bridges to find cheese!  
+find the key, find correct way, and go on adventure to find cheese!
+
+
+
+How to play
+
+please double click gamejam.exe file!
+
+Move : W  , A , S , D  
+Interect : E  
+Pick up item : F  
+Reset level : R  
+Ability(teleport) : Spacebar.  
+
+[Download Game](aug/3_stacks/one%20way%20can't%20go%20back.zip)
