@@ -167,4 +167,4 @@ Ability(teleport) : Spacebar.
 
 ![](aug/ShinHawon/screenshot.png)
 
-![Download Game](aug/ShinHawon/sketch_250825a.zip)
+[Download Game](aug/ShinHawon/sketch_250825a.zip)
